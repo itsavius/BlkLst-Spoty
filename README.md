@@ -1,2 +1,2 @@
-# BlackList-DNS-Spotify
+# BlackList DNS Spotify Ads
 Black List DNS Spotify Ads
