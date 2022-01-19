@@ -1,3 +1,23 @@
+adeventtracker.spotify.com
+audio-ak-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
+audio4-fa.scdn.co
+heads-ak-spotify-com.akamaized.net
+video-akpcw-cdn-spotify-com.akamaized.net
+edge-web-split-geo.dual-gslb.spotify.com
+edge-web.dual-gslb.spotify.com
+heads-fa.scdn.co
+api.spotify.com
+canvaz.scdn.co
+charts-images.scdn.co
+dailymix-images.scdn.co
+i.scdn.co
+newjams-images.scdn.co
+quicksilver.scdn.co
+scdnco.spotify.map.fastly.net
+seeded-session-images.scdn.co
+sharing-config.spotifycdn.com
+thisis-images.scdn.co
 00.video-ak.cdn.spotify.com
 01.video-ak.cdn.spotify.com
 02.video-ak.cdn.spotify.com
@@ -148,13 +168,11 @@ ac.video-ak.cdn.spotify.com
 accalia.ap.spotify.com
 accalia.ash.spotify.com
 accalia.ash1.spotify.com
-accounts.spotify.com
 aci.scdn.co
 actman.scdn.co
 ad-proxy.spotify.com
 ad.audio-ak.cdn.spotify.com
 ad.video-ak.cdn.spotify.com
-adeventtracker.spotify.com
 adgen-dev.spotify.com
 adgen.spotify.com
 adjust-callback.spotify.com
@@ -209,7 +227,6 @@ api-partners-canary.wg.spotify.com
 api-spotify.com
 api-tv-canary.wg.spotify.com
 api-tv.spotify.com
-api.spotify.com
 arantxa.ash.spotify.com
 arantxa.ash1.spotify.com
 artist-identity-image.spotify.com
@@ -242,7 +259,6 @@ ash2-idp-a1.ash2.spotify.com
 ash2-idp-a2.ash2.spotify.com
 ash2.spotify.com
 assets.spotify.com
-audio-ak-spotify-com.akamaized.net
 audio-ak.spotify.com
 audio-ak.spotify.com.edgesuite.net
 audio-ak.spotify.com.eip.akadns.net
@@ -283,10 +299,8 @@ audio-sp-sjc6b.spotify.com
 audio-sp-sjcb.spotify.com
 audio-sp-tyo.spotify.com
 audio-sp.spotify.com
-audio4-ak-spotify-com.akamaized.net
 audio4-ak.spotify.com.edgesuite.net
 audio4-akp.spotify.com.edgesuite.net
-audio4-fa.scdn.co
 auditdesk-server.spotify.com
 axp.spotify.com
 b0.video-ak.cdn.spotify.com
@@ -340,7 +354,6 @@ cache.spotify.com
 cache.spotify.com
 cadace.ash1.spotify.com
 cal.spotify.com
-canvaz.scdn.co
 car-dev.scdn.co
 car-prod.scdn.co
 car-staging.scdn.co
@@ -350,7 +363,6 @@ cc.video-ak.cdn.spotify.com
 cd.video-ak.cdn.spotify.com
 ce.video-ak.cdn.spotify.com
 cf.video-ak.cdn.spotify.com
-charts-images.scdn.co
 christopher.lon.spotify.com
 clemmie.ash.spotify.com
 clemmie.ash1.spotify.com
@@ -385,7 +397,6 @@ d8.video-ak.cdn.spotify.com
 d9.video-ak.cdn.spotify.com
 da.video-ak.cdn.spotify.com
 daily-mix.scdn.co
-dailymix-images.scdn.co
 daryl.ash.spotify.com
 daryl.ash1.spotify.com
 datawarehouse.spotify.com
@@ -425,8 +436,6 @@ ea.video-ak.cdn.spotify.com
 eb.video-ak.cdn.spotify.com
 ec.video-ak.cdn.spotify.com
 ed.video-ak.cdn.spotify.com
-edge-web-split-geo.dual-gslb.spotify.com
-edge-web.dual-gslb.spotify.com
 ee.video-ak.cdn.spotify.com
 ef.video-ak.cdn.spotify.com
 eip-ntt.audio-ak.spotify.com.akahost.net
@@ -498,7 +507,6 @@ guc3-accesspoint-b-vn51.ap.spotify.com
 guc3.ap.spotify.com
 hanane.ash.spotify.com
 hanane.ash1.spotify.com
-heads-ak-spotify-com.akamaized.net
 heads-ak.spotify.com
 heads-ak.spotify.com.edgesuite.net
 heads-akp.spotify.com
@@ -507,7 +515,6 @@ heads-cf.spotify.com
 heads-ec.spotify.com
 heads-ecb.spotify.com
 heads-ecp.spotify.com
-heads-fa.scdn.co
 heads-fa.spotify.com
 heads-fab.spotify.com
 heads-fac.spotify.com
@@ -518,7 +525,6 @@ heather.ap.spotify.com
 herlinda.ash.spotify.com
 herlinda.ash1.spotify.com
 hrblog.spotify.com
-i.scdn.co
 i.scdn.co
 idp.gslb.spotify.com
 ilisapesi.ash.spotify.com
@@ -578,7 +584,6 @@ nediva.ash.spotify.com
 nediva.ash1.spotify.com
 neeharika.ash.spotify.com
 neeharika.ash1.spotify.com
-newjams-images.scdn.co
 news.spotify.com
 newsroom.spotify.com
 nieves.ash.spotify.com
@@ -626,7 +631,6 @@ profile-images.scdn.co
 promo-001.lon.spotify.com
 promo.spotify.com
 pub-net-srx-int-testing.spotify.com
-quicksilver.scdn.co
 r.scdn.co
 r620test.lon.spotify.com
 repository-origin.spotify.com
@@ -641,13 +645,10 @@ sap-testing.spotify.com
 sap.spotify.com
 scannables.scdn.co
 scdn.co
-scdnco.spotify.map.fastly.net
 search.spotxchange.com
-seeded-session-images.scdn.co
 seektables.scdn.co
 sgwww.spotify.com
 sh2-idp-a1.ash2.spotify.com
-sharing-config.spotifycdn.com
 showsportal.spotify.com
 shradhdha.ash.spotify.com
 shradhdha.ash1.spotify.com
@@ -669,7 +670,6 @@ smartling-001.lon2.spotify.com
 sp-bootstrap.global.ssl.fastly.net
 spclient-canary.wg.spotify.com
 spclient.spotify.com
-spclient.wg.spotify.com
 speech-recognition-test.spotify.com
 speech-recognition.spotify.com
 spotify-desktop.com
@@ -711,7 +711,6 @@ sync.search.spotxchange.com
 t.scdn.co
 tathra.ash.spotify.com
 tathra.ash1.spotify.com
-thisis-images.scdn.co
 timecapsule.spotify.com
 tv-cast-prod.scdn.co
 tv-static.scdn.co
@@ -725,7 +724,6 @@ useradmin.spotify.com
 valerie.ap.spotify.com
 valerie.lon.spotify.com
 valerie.lon2.spotify.com
-video-akpcw-cdn-spotify-com.akamaized.net
 video-fa-b.cdn.spotify.com
 video-fa.cdn.spotify.com
 video-fa.scdn.co
