@@ -10,6 +10,7 @@ apresolve.spotify.com
 dealer.spotify.com
 quicksilver.scdn.co
 video-fa.scdn.co
+# Opcional
 igapromomanager-pa.googleapis.com
 cdn.ampproject.org
 ade.googlesyndication.com
