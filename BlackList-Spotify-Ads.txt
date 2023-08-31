@@ -1,5 +1,6 @@
 #100% This Works
 adeventtracker.spotify.com
+adeventtrackermonitoring.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
