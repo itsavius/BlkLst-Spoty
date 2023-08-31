@@ -5,11 +5,11 @@ audio4-ak-spotify-com.akamaized.net
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
 video-akpcw-cdn-spotify-com.akamaized.net
+video-fa.scdn.co
 bloodhound.spotify.com
 apresolve.spotify.com
 dealer.spotify.com
 quicksilver.scdn.co
-video-fa.scdn.co
 # Opcional
 igapromomanager-pa.googleapis.com
 cdn.ampproject.org
