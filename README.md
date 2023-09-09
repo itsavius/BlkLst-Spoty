@@ -1,5 +1,5 @@
-# BlackList DNS Spotify Ads
-Black List DNS Spotify Ads
+# BlackList Spoty
+Black List Spoty
 
 
 Viva México Cabrones
