@@ -24,7 +24,6 @@ heads-ak.spotify.com.edgesuite.net
 heads-akp.spotify.com
 heads-akp.spotify.com.edgesuite.net
 heads-cf.spotify.com
-heads-fa.scdn.co
 heads-fa.spotify.com
 heads-fab.spotify.com
 heads-fac.spotify.com
@@ -32,7 +31,6 @@ heads4-ak-spotify-com.akamaized.net
 heads4-ak.spotify.com.edgesuite.net
 heads4-akp.spotify.com.edgesuite.net
 video-akpcw-cdn-spotify-com.akamaized.net
-video-fa.scdn.co
 9b.video-ak.cdn.spotify.com
 00.video-ak.cdn.spotify.com
 01.video-ak.cdn.spotify.com
