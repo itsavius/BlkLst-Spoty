@@ -24,7 +24,6 @@ heads-ak.spotify.com.edgesuite.net
 heads-akp.spotify.com
 heads-akp.spotify.com.edgesuite.net
 heads-cf.spotify.com
-heads-fa.spotify.com
 heads-fab.spotify.com
 heads-fac.spotify.com
 heads4-ak-spotify-com.akamaized.net
