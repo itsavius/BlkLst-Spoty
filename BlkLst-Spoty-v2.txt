@@ -262,3 +262,15 @@ fc.video-ak.cdn.spotify.com
 fd.video-ak.cdn.spotify.com
 fe.video-ak.cdn.spotify.com
 ff.video-ak.cdn.spotify.com
+analytics.spotify.com
+crashdump.spotify.com
+crashdump.ciqe-gslb.spotify.com
+log.spotify.com
+log2.spotify.com
+adlab.spotify.com
+adlog.spotify.com
+adstudio-assets.scdn.co
+adstudio-help.spotify.com
+adstudio.spotify.com
+ads-akp.spotify.com
+mp3ad.scdn.co
