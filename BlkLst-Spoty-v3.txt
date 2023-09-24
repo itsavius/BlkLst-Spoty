@@ -291,3 +291,4 @@ adstudio-help.spotify.com
 adstudio.spotify.com
 ads-akp.spotify.com
 mp3ad.scdn.co
+wwwmarketing.scdn.co
