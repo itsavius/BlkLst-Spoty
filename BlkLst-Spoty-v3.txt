@@ -1,9 +1,9 @@
 dealer.spotify.com
 ash-dealer.spotify.com
-guc3-dealer.spotify.com
 gae-dealer.spotify.com
-gew-dealer.spotify.com
 guc-dealer.spotify.com
+guc3-dealer.spotify.com
+gew-dealer.spotify.com
 sto-dealer.spotify.com
 dealer-ssl.spotify.com
 gae-dealer-ssl.spotify.com
