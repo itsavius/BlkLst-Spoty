@@ -13,6 +13,8 @@ gew-dealer-ssl.spotify.com
 global-dealer-ssl.spotify.com
 pixel.spotify.com
 pixel-static.spotify.com
+pixel1.spotify.com
+pixel2.spotify.com
 bloodhound.spotify.com
 quicksilver.scdn.co
 adeventtracker.spotify.com
